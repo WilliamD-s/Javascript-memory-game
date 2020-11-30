@@ -1,2 +1,3 @@
 # projectsForTraining
-My personal project done just to learn and improve my programing skills
+
+### 1º: my memory game card
