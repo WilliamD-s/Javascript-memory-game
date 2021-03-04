@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/WilliamD-s/projectsForTraining)
 
 # Sobre o Repositório
-Essa repositório é referente a alguns projetos que eu utilizo para aprender conceitos ou padrões de programação, seja por via de tutoriais, documentação ou mesmo algum outro repositório que eu considerar importante ou interessante.
+Essa repositório é referente a alguns projetos menores e mais simples que eu utilizo para aprender conceitos ou padrões de programação, seja por via de tutoriais, documentação ou mesmo algum outro repositório que eu considerar importante ou interessante.
 
 ## 1º projeto - Jogo da memória
 ### Sobre o projeto
