@@ -2,10 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/WilliamD-s/projectsForTraining)
 
-# Sobre o Repositório
-Essa repositório é referente a alguns projetos menores e mais simples que eu utilizo para aprender conceitos ou padrões de programação, seja por via de tutoriais, documentação ou mesmo algum outro repositório que eu considerar importante ou interessante.
-
-## 1º projeto - Jogo da memória
+# projeto - Jogo da memória
 ### Sobre o projeto
 Jogo da memória simples criado utilizando apenas CSS, HTML e Javascript, utilizei de base um tutorial do youtube, pois um diferencial que percebi deste projeto, é justamente a questão de que é dividido entre a lógica no Javascript e os estilos aplicados via CSS incluindo a alteração de classes via Javascript para alterar os efeitos nas cartas do jogo.
 
